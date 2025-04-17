@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+.App {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 10px;
+  height: 100vh;
+  overflow: hidden;
+}
+
+body {
+  width: 100%;
+}
+
+.router__content {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  overflow-y: auto;
+  height: 100vh;
+  padding: 10px;
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

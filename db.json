@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "1234",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "user",
+      "password": "1234",
+      "role": "user"
+    },
+    {
+      "id": "58d8",
+      "username": "user2",
+      "password": "123123123",
+      "role": "user"
+    }
+  ],
+  "cars": [
+    {
+      "id": "ca99",
+      "title": "Porsche 911 Carrera 4 GTS, 2025",
+      "price": 31450000,
+      "location": "Нижний Новгород",
+      "description": "Из Германии\nНовый\nОсмотр Москва и Нижний Новгород\nЦена с учетом всех документов и коммерческого утиль сбора.\nНовый GTS 2025 год.\nВершина технологий Porsche.\nБурмистр\nПакет aerokit\nЦвет крайон\nМаксимальные сиденья (18)",
+      "imageUrls": [
+        "https://i.ibb.co/RkDfQt4r/image.png",
+        "https://i.ibb.co/hRbPy3Mk/image.png",
+        "https://i.ibb.co/JRJVfy8K/image.png",
+        "https://i.ibb.co/4Rs75Jy7/image.png",
+        "https://i.ibb.co/0pJggDSH/image.png"
+      ]
+    },
+    {
+      "id": "189a",
+      "title": "Mercedes-Benz C-Класс 280, 2010",
+      "price": 1290000,
+      "location": "Екатеринбургжилой комплекс Первый Академ",
+      "description": "Полный привод 3л мотор ( до налоговый )\nБез ДТП, окрасы косметика левая и правая задние арки.\nТех состояние ОТЛИЧНОЕ.\nПо кузову губа бампера трещина и заднее левое крыло указано на фото.\n\n\nЗа период моего владения:\n1 Обслужена вся подвеска рычаги стойки ( AMG занижение ) Идеально на трассе.\n2 Замена насоса гур\n3 Замена радиатора чистка хладагента",
+      "imageUrls": [
+        "https://i.ibb.co/Wpc9dJX4/image.png",
+        "https://i.ibb.co/20jRZ3y7/image.png",
+        "https://i.ibb.co/VWN0jTnx/image.png",
+        "https://i.ibb.co/6c9bn8rM/image.png",
+        "https://i.ibb.co/1t9GGn3r/image.png",
+        "https://i.ibb.co/tM9LQRC3/image.png",
+        "https://i.ibb.co/G34mWYhs/image.png",
+        "https://i.ibb.co/V0dqSQWz/image.png",
+        "https://i.ibb.co/rRJCFYHv/image.png",
+        "https://i.ibb.co/200vMf4X/image.png",
+        "https://i.ibb.co/fzx4c8nM/image.png",
+        "https://i.ibb.co/SDg9dsy5/image.png",
+        "https://i.ibb.co/N64RLs5W/image.png",
+        "https://i.ibb.co/5grr4fJP/image.png",
+        "https://i.ibb.co/wF9x28P4/image.png",
+        "https://i.ibb.co/XxLdvrXZ/image.png"
+      ]
+    }
+  ]
+}
